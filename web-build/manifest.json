@@ -1,11 +1,9 @@
 {
-  "background_color": "#FFFFFF",
+  "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
   "name": "DrCarama",
-  "scope": "/",
-  "short_name": "App",
-  "start_url": "/",
-  "theme_color": "#000000",
+  "short_name": "DrCarama",
+  "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }
